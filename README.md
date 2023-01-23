@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# nlw-setup
+>>>>>>> 8644fe51984de77d4e72c54c8e00b235b0fd2fe1
 <h1 align="center"> habits </h1>
 
 <p align="center">
